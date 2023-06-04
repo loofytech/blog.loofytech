@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "id": 1,
+      "name": "Backend",
+      "slug": "backend"
+    },
+    {
+      "id": 2,
+      "name": "Frontend",
+      "slug": "frontend"
+    },
+    {
+      "id": 3,
+      "name": "Marketing",
+      "slug": "marketing"
+    },
+    {
+      "id": 4,
+      "name": "Server",
+      "slug": "server"
+    }
+  ]
+}
