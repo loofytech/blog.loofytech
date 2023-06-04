@@ -18,18 +18,18 @@ export function appContext() {
 
 type IType = {
   children: React.ReactNode;
-  data: any;
+  state: any;
 }
 
-export function AppContext({children, data}: IType) {
-  const [categories, setCategories] = useState<any>(data.categories);
+export function AppContext({children, state}: IType) {
+  const [categories, setCategories] = useState<any>(state.categories.data);
 
   const value = {
     categories,
   };
 
   useEffectOnce(() => {
-    console.log(data);
+    // console.log(data);
   })
 
   return (

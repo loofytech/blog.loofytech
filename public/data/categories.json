@@ -4,22 +4,26 @@
     {
       "id": 1,
       "name": "Backend",
-      "slug": "backend"
+      "slug": "backend",
+      "image": "/images/backend.webp"
     },
     {
       "id": 2,
       "name": "Frontend",
-      "slug": "frontend"
+      "slug": "frontend",
+      "image": "/images/frontend.webp"
     },
     {
       "id": 3,
       "name": "Marketing",
-      "slug": "marketing"
+      "slug": "marketing",
+      "image": "/images/marketing.webp"
     },
     {
       "id": 4,
       "name": "Server",
-      "slug": "server"
+      "slug": "server",
+      "image": "/images/server.webp"
     }
   ]
 }

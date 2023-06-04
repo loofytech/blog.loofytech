@@ -12,7 +12,7 @@ type TProps = AppProps & {
 export default function _App({Component, pageProps: {...pageProps}, categories}: TProps) {
   return (
     <AppContext
-      data={{categories: categories}}
+      state={{categories: categories}}
     >
       <AppLayout>
         <Head>
