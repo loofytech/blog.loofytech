@@ -3,27 +3,87 @@
   "data": [
     {
       "id": 1,
-      "name": "Backend",
+      "name": "Backend Developer",
+      "tagline": "Step by step guide to becoming a modern backend developer in 2023",
       "slug": "backend",
       "image": "/images/backend.webp"
     },
     {
       "id": 2,
-      "name": "Frontend",
+      "name": "Frontend Developer",
+      "tagline": "Step by step guide to becoming a modern frontend developer in 2023",
       "slug": "frontend",
       "image": "/images/frontend.webp"
     },
     {
       "id": 3,
-      "name": "Marketing",
-      "slug": "marketing",
-      "image": "/images/marketing.webp"
+      "name": "DevOps",
+      "tagline": "Step by step guide for DevOps, SRE or any other Operations Role in 2023",
+      "slug": "devops",
+      "image": "/images/server.webp"
     },
     {
       "id": 4,
-      "name": "Server",
-      "slug": "server",
-      "image": "/images/server.webp"
+      "name": "Full Stack Developer",
+      "tagline": "Step by step guide to becoming a modern full stack developer in 2023",
+      "slug": "fullstack",
+      "image": "/images/marketing.webp"
+    },
+    {
+      "id": 5,
+      "name": "Android Developer",
+      "tagline": "Step by step guide to becoming an Android developer in 2023",
+      "slug": "android",
+      "image": "/images/marketing.webp"
+    },
+    {
+      "id": 6,
+      "name": "PostgreSQL DBA",
+      "tagline": "Step by step guide to becoming a modern PostgreSQL DB Administrator in 2023",
+      "slug": "postgresql",
+      "image": "/images/marketing.webp"
+    },
+    {
+      "id": 7,
+      "name": "Blockchain Developer",
+      "tagline": "Step by step guide to becoming a blockchain developer in 2023.",
+      "slug": "blockchain",
+      "image": "/images/marketing.webp"
+    },
+    {
+      "id": 8,
+      "name": "QA Engineer",
+      "tagline": "Steps to follow in order to become a modern QA Engineer in 2023",
+      "slug": "qaengineer",
+      "image": "/images/marketing.webp"
+    },
+    {
+      "id": 9,
+      "name": "Software Architect",
+      "tagline": "Step by step guide to becoming a Software Architect in 2023",
+      "slug": "software",
+      "image": "/images/marketing.webp"
+    },
+    {
+      "id": 10,
+      "name": "UX Design",
+      "tagline": "Step by step guide to becoming a UX Designer in 2023",
+      "slug": "uxdesign",
+      "image": "/images/marketing.webp"
+    },
+    {
+      "id": 11,
+      "name": "System Design",
+      "tagline": "Everything you need to know about designing large scale systems.",
+      "slug": "designsys",
+      "image": "/images/marketing.webp"
+    },
+    {
+      "id": 12,
+      "name": "Flutter Developer",
+      "tagline": "Step by step guide to becoming a Flutter developer in 2023",
+      "slug": "flutter",
+      "image": "/images/marketing.webp"
     }
   ]
 }

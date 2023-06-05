@@ -1,0 +1,95 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "id": 1,
+      "title": "A Guide To Rocky Mountain Vacations",
+      "subtitle": "These tips come from the safety experts at Voith Turbo, York, Pa., which manufactures a device that helps trains with braking, to make train travel even better.",
+      "images": ["/images/post.webp"],
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio quis natus officia, in saepe et praesentium molestias quia incidunt labore non culpa rem voluptates vel maiores asperiores beatae minus? Est accusamus odit eos quasi vel eius laboriosam non ducimus quaerat aliquam molestiae, repellendus nostrum cupiditate animi veniam iste deserunt unde?",
+      "user": {
+        "id": 1,
+        "name": "Agung Ardiyanto",
+        "photo": "/images/user.webp"
+      },
+      "like": 233,
+      "comment": 58,
+      "share": 29
+    },
+    {
+      "id": 2,
+      "title": "A Guide To Rocky Mountain Vacations",
+      "subtitle": "These tips come from the safety experts at Voith Turbo, York, Pa., which manufactures a device that helps trains with braking, to make train travel even better.",
+      "images": ["/images/post.webp"],
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio quis natus officia, in saepe et praesentium molestias quia incidunt labore non culpa rem voluptates vel maiores asperiores beatae minus? Est accusamus odit eos quasi vel eius laboriosam non ducimus quaerat aliquam molestiae, repellendus nostrum cupiditate animi veniam iste deserunt unde?",
+      "user": {
+        "id": 1,
+        "name": "Agung Ardiyanto",
+        "photo": "/images/user.webp"
+      },
+      "like": 198,
+      "comment": 72,
+      "share": 44
+    },
+    {
+      "id": 3,
+      "title": "A Guide To Rocky Mountain Vacations",
+      "subtitle": "These tips come from the safety experts at Voith Turbo, York, Pa., which manufactures a device that helps trains with braking, to make train travel even better.",
+      "images": ["/images/post.webp"],
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio quis natus officia, in saepe et praesentium molestias quia incidunt labore non culpa rem voluptates vel maiores asperiores beatae minus? Est accusamus odit eos quasi vel eius laboriosam non ducimus quaerat aliquam molestiae, repellendus nostrum cupiditate animi veniam iste deserunt unde?",
+      "user": {
+        "id": 1,
+        "name": "Agung Ardiyanto",
+        "photo": "/images/user.webp"
+      },
+      "like": 167,
+      "comment": 29,
+      "share": 13
+    },
+    {
+      "id": 4,
+      "title": "A Guide To Rocky Mountain Vacations",
+      "subtitle": "These tips come from the safety experts at Voith Turbo, York, Pa., which manufactures a device that helps trains with braking, to make train travel even better.",
+      "images": ["/images/post.webp"],
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio quis natus officia, in saepe et praesentium molestias quia incidunt labore non culpa rem voluptates vel maiores asperiores beatae minus? Est accusamus odit eos quasi vel eius laboriosam non ducimus quaerat aliquam molestiae, repellendus nostrum cupiditate animi veniam iste deserunt unde?",
+      "user": {
+        "id": 5,
+        "name": "Agung Ardiyanto",
+        "photo": "/images/user.webp"
+      },
+      "like": 233,
+      "comment": 58,
+      "share": 29
+    },
+    {
+      "id": 6,
+      "title": "A Guide To Rocky Mountain Vacations",
+      "subtitle": "These tips come from the safety experts at Voith Turbo, York, Pa., which manufactures a device that helps trains with braking, to make train travel even better.",
+      "images": ["/images/post.webp"],
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio quis natus officia, in saepe et praesentium molestias quia incidunt labore non culpa rem voluptates vel maiores asperiores beatae minus? Est accusamus odit eos quasi vel eius laboriosam non ducimus quaerat aliquam molestiae, repellendus nostrum cupiditate animi veniam iste deserunt unde?",
+      "user": {
+        "id": 1,
+        "name": "Agung Ardiyanto",
+        "photo": "/images/user.webp"
+      },
+      "like": 198,
+      "comment": 72,
+      "share": 44
+    },
+    {
+      "id": 3,
+      "title": "A Guide To Rocky Mountain Vacations",
+      "subtitle": "These tips come from the safety experts at Voith Turbo, York, Pa., which manufactures a device that helps trains with braking, to make train travel even better.",
+      "images": ["/images/post.webp"],
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio quis natus officia, in saepe et praesentium molestias quia incidunt labore non culpa rem voluptates vel maiores asperiores beatae minus? Est accusamus odit eos quasi vel eius laboriosam non ducimus quaerat aliquam molestiae, repellendus nostrum cupiditate animi veniam iste deserunt unde?",
+      "user": {
+        "id": 1,
+        "name": "Agung Ardiyanto",
+        "photo": "/images/user.webp"
+      },
+      "like": 167,
+      "comment": 29,
+      "share": 13
+    }
+  ]
+}
